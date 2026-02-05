@@ -24,10 +24,9 @@ const AbCon = () => {
         </p>
       </div>
 
-      {/* VISION + MISSION */}
+      
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mb-20">
 
-        {/* VISION */}
         <div className="group transition-all hover:rounded-[60px] border border-black border-8 p-8 text-center">
           <h2 className="text-xl md:text-2xl font-bold mb-4 uppercase group-hover:text-green-400 transition">
             Vision
@@ -40,7 +39,7 @@ const AbCon = () => {
           </p>
         </div>
 
-        {/* MISSION */}
+        
         <div className="group transition-all hover:rounded-[60px] border border-black border-8 p-8 text-center">
           <h2 className="text-xl md:text-2xl font-bold mb-4 uppercase group-hover:text-green-400 transition">
             Mission
@@ -55,7 +54,7 @@ const AbCon = () => {
 
       </div>
 
-      {/* FACULTY LEADS */}
+     
       <div className="mb-20">
 
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-10 uppercase font-[font1]">
@@ -81,7 +80,7 @@ const AbCon = () => {
         </div>
       </div>
 
-      {/* STUDENT LEADS */}
+     
       <div>
 
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-10 uppercase font-[font1]">
